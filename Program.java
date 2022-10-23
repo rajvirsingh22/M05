@@ -10,7 +10,7 @@
  * See http://www.gnu.org/licenses/gpl.html for more information.
  */
 package gitTerminal02;
-
+ndvjbzjkbibj
 import java.util.Scanner;
 
 public class Program {
@@ -35,7 +35,7 @@ public class Program {
 
 		return (2 * Math.PI) * radius;
 	}
-
+	njbkhkjbrajvir
 	/**
 	 * TUI = Terminal User Interface
 	 * 
